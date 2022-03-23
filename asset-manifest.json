@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/cog-workload-pages/static/css/main.ff11737a.chunk.css",
+    "main.js": "/cog-workload-pages/static/js/main.f0281a93.chunk.js",
+    "main.js.map": "/cog-workload-pages/static/js/main.f0281a93.chunk.js.map",
+    "runtime-main.js": "/cog-workload-pages/static/js/runtime-main.5589b3fe.js",
+    "runtime-main.js.map": "/cog-workload-pages/static/js/runtime-main.5589b3fe.js.map",
+    "static/css/2.9e9c724a.chunk.css": "/cog-workload-pages/static/css/2.9e9c724a.chunk.css",
+    "static/js/2.70c82de6.chunk.js": "/cog-workload-pages/static/js/2.70c82de6.chunk.js",
+    "static/js/2.70c82de6.chunk.js.map": "/cog-workload-pages/static/js/2.70c82de6.chunk.js.map",
+    "static/js/3.fa3e992b.chunk.js": "/cog-workload-pages/static/js/3.fa3e992b.chunk.js",
+    "static/js/3.fa3e992b.chunk.js.map": "/cog-workload-pages/static/js/3.fa3e992b.chunk.js.map",
+    "static/js/4.d5965acf.chunk.js": "/cog-workload-pages/static/js/4.d5965acf.chunk.js",
+    "static/js/4.d5965acf.chunk.js.map": "/cog-workload-pages/static/js/4.d5965acf.chunk.js.map",
+    "static/js/5.41541b2c.chunk.js": "/cog-workload-pages/static/js/5.41541b2c.chunk.js",
+    "static/js/5.41541b2c.chunk.js.map": "/cog-workload-pages/static/js/5.41541b2c.chunk.js.map",
+    "static/js/6.53cb76ea.chunk.js": "/cog-workload-pages/static/js/6.53cb76ea.chunk.js",
+    "static/js/6.53cb76ea.chunk.js.map": "/cog-workload-pages/static/js/6.53cb76ea.chunk.js.map",
+    "index.html": "/cog-workload-pages/index.html",
+    "static/css/2.9e9c724a.chunk.css.map": "/cog-workload-pages/static/css/2.9e9c724a.chunk.css.map",
+    "static/css/main.ff11737a.chunk.css.map": "/cog-workload-pages/static/css/main.ff11737a.chunk.css.map",
+    "static/js/2.70c82de6.chunk.js.LICENSE.txt": "/cog-workload-pages/static/js/2.70c82de6.chunk.js.LICENSE.txt",
+    "static/js/3.fa3e992b.chunk.js.LICENSE.txt": "/cog-workload-pages/static/js/3.fa3e992b.chunk.js.LICENSE.txt",
+    "static/js/4.d5965acf.chunk.js.LICENSE.txt": "/cog-workload-pages/static/js/4.d5965acf.chunk.js.LICENSE.txt",
+    "static/js/5.41541b2c.chunk.js.LICENSE.txt": "/cog-workload-pages/static/js/5.41541b2c.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/cog-workload-pages/static/media/arya-latin-ext-400-normal.83709018.woff2",
+    "static/media/primereact.min.css": "/cog-workload-pages/static/media/line.39c65dcc.gif",
+    "static/media/cw-icon.665ba3f9.png": "/cog-workload-pages/static/media/cw-icon.665ba3f9.png",
+    "static/media/icon.04ffa081.png": "/cog-workload-pages/static/media/icon.04ffa081.png",
+    "static/media/theme.css": "/cog-workload-pages/static/media/open-sans-v15-latin-regular.ec806460.woff2",
+    "static/media/primeicons.css": "/cog-workload-pages/static/media/primeicons.e61f3495.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5589b3fe.js",
+    "static/css/2.9e9c724a.chunk.css",
+    "static/js/2.70c82de6.chunk.js",
+    "static/css/main.ff11737a.chunk.css",
+    "static/js/main.f0281a93.chunk.js"
+  ]
+}
